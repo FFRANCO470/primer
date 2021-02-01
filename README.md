@@ -1,2 +1,2 @@
-# primer
+# primero
 Primer proyecto en laravel
